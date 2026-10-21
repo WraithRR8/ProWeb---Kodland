@@ -1,14 +1,15 @@
 body {
-    font-family: sans-serif; /* Font family */
-    font-size: 11px; /* O tamanho da fonte principal<p></p> tag  */
-    background-color: #5988FF; /* A cor do plano de fundo da página */
-    color:  #FFFFFF; /* A cor do texto */ 
+    background-color: #FFFFFF;
+    color: #202124;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
 }
 h1 {
-    color: #D6FF6B; /* A cor do cabeçalho */
+    color: black; /* A cor do cabeçalho */
     font-size: 24px; /* A cor da fonte do cabeçalho */
-    font-family: sans-serif /* A font usada no cabeçalho*/
+    font-family: sans-serif; /* A font usada no cabeçalho*/
 }
+
 p{
     color: #FD98FB;
     font-size: 20px;
